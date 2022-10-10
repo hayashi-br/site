@@ -1068,7 +1068,14 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/img-86-2000x1500.png");
+  background-image: url("../../../assets/images/whatsapp-image-2022-07-23-at-17.39.09-removebg-preview-566x441.png");
+}
+.cid-qTkA127IK8 H1 {
+  color: #f9f295;
+}
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  color: #f9f295;
 }
 .cid-tgkl9mHhtq {
   padding-top: 60px;
